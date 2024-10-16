@@ -1,5 +1,5 @@
 *** Settings ***
-Resource    ../../../resources/keywords.robot
+Resource    ../../../resources/resnest/keywords.robot
 
 *** Test Cases ***
 Test
